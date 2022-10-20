@@ -1,0 +1,5 @@
+#Component
+	A component is just a function which returns some jsx, some html.
+
+#State
+	Change your component at run time.
