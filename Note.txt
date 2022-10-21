@@ -1,5 +1,8 @@
-#Component
+# Component
 	A component is just a function which returns some jsx, some html.
 
-#State
+# State
 	Change your component at run time.
+
+# map()
+	
