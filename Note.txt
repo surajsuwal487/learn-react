@@ -4,5 +4,5 @@
 # State
 	Change your component at run time.
 
-# map()
-	
+# const
+	use const if you are never assigning a new value.
