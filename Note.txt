@@ -1,3 +1,7 @@
+#useful commands
+	npm start
+	npm install --save prop-types
+
 # Component
 	A component is just a function which returns some jsx, some html.
 
@@ -6,3 +10,12 @@
 
 # const
 	use const if you are never assigning a new value.
+
+# useEffect()
+	It runs all the time, it combines componentDidMount and componentDidUpdate.
+
+# performance optimization (shouldComponentUpdate).
+	if we set return true. React will always goes a head and re-renders the entire component tree for the component whenever something changes in the component. It does not update real DOM, it does check it need to update the real DOM internally.
+
+# curlyBracket or Bracket
+	Use curly brackets if you want to return some logic before jsx.
