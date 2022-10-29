@@ -19,3 +19,12 @@
 
 # curlyBracket or Bracket
 	Use curly brackets if you want to return some logic before jsx.
+
+# improvingPerformance
+	check do we have any state of prop changes which trigger a re-rendering even though this might not be required.
+
+# Axios
+	Axios is a third party JS library which you can add to any JS project.
+
+# instance
+	Copy of the object.
